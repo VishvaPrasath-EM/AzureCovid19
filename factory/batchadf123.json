@@ -1,0 +1,9 @@
+{
+	"name": "batchadf123",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edeee53c-b176-4887-9ecd-4a321ec3b486",
+		"tenantId": "c14ed7e0-ebc9-4561-aeb9-db8229535797"
+	}
+}
